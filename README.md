@@ -1,2 +1,26 @@
-# nyc-airbnb-analysis
-Analyse du marché Airbnb à New York à partir de données open source. Nettoyage, feature engineering et modélisation analytique en Python, suivis d’un dashboard interactif Looker Studio pour explorer prix, disponibilité et opportunités par borough.
+# 🏙️ NYC Airbnb Market Analysis
+
+## Objectif
+Analyser le marché Airbnb à New York afin d’identifier les différences de prix,
+de disponibilité et les opportunités potentielles.
+
+## Dataset
+NYC Airbnb Open Data (Kaggle)
+
+## Méthodologie
+- Nettoyage et feature engineering (Python, Pandas)
+- Modélisation analytique (tables dimension / fait)
+- Visualisation (Looker Studio)
+
+## 📊 Dashboard interactif
+👉 https://lookerstudio.google.com/reporting/XXXXXXXX
+
+## Aperçu
+![Overview](dashboards/page_1_overview.png)
+
+## Technologies
+- Python
+- Pandas
+- Google Colab
+- KaggleHub
+- Looker Studio
