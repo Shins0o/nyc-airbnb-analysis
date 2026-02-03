@@ -13,7 +13,7 @@ NYC Airbnb Open Data (Kaggle)
 - Visualisation (Looker Studio)
 
 ## 📊 Dashboard interactif
-👉 https://lookerstudio.google.com/reporting/XXXXXXXX
+👉 https://lookerstudio.google.com/reporting/dbb53904-613f-42b8-953e-dc0fa546c940/page/CMnkF
 
 ## Aperçu
 ![Overview](dashboards/page_1_overview.png)
